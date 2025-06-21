@@ -1,2 +1,2 @@
 dir=${1:-nodir}
-echo installing $AppName dir=$dir
+echo installing ${AppName} XXX=${XXX} dir=$dir
